@@ -4,4 +4,4 @@
 
 This is a test! 
 
-[Hello World](Hello%20World.md)
+[[Digital-Garden/Hello World\|Hello World]]
