@@ -4,4 +4,6 @@
 
 This is a Hello World Page
 
-[Home](Digital-Garden/Home.md)
+[[Digital-Garden/Home\|Digital-Garden/Home]]
+
+
